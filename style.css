@@ -1,0 +1,30 @@
+/* css reset */
+
+#pokemon {
+	height: auto;
+    width: 70%;
+}
+
+#index {
+    width: auto;
+    float: right;
+    margin:auto;
+    display: inline-block;
+    vertical-align: top;
+    border: 3px solid;
+    position: fixed;
+}
+
+#index h2 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+#index img{
+	height: 300px;
+}
+
+#pokemon, #index {
+    display: inline-block;
+    vertical-align: top;
+}
